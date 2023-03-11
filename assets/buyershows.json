@@ -1,0 +1,3950 @@
+{
+    "data_list": [
+        {
+            "id": 109,
+            "cover": "https://static.preclight.com/uploads/2023-01-16/63c5105eb4f2c.jpg",
+            "cover_width": 1080,
+            "cover_height": 1441,
+            "title": "救命，这家店把我宝贝的定制模型做得也太好看了吧，作为一个天天",
+            "sort": 1675077171007,
+            "show_index": 1,
+            "tag_img": "",
+            "product_id": 22,
+            "create_user": "闪电风暴",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-16/63c510400a29e.jpg",
+            "create_userid": 0,
+            "like_num": 982,
+            "publish_date": "2023-01-16 16:52",
+            "status": 1,
+            "created_at": "2023-01-16T16:53:35+08:00",
+            "magic_buyer_show_content": {
+                "id": 109,
+                "sid": 109,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-16/63c5105eb4f2c.jpg",
+                    "https://static.preclight.com/uploads/2023-01-16/63c5106597705.jpg",
+                    "https://static.preclight.com/uploads/2023-01-16/63c51070c6cae.jpg"
+                ],
+                "model": {
+                    "url": "",
+                    "cover": "",
+                    "ar_url": ""
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.4,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305432859774976",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.8
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "救命，这家店把我宝贝的定制模型做得也太好看了吧，作为一个天天吸娃的人，我看到效果都迷糊啦，还担心小孩子太小做出来不好看，这品质给我惊艳到了。关键是只要一张照片，说出去谁信啊，这技术也太牛了。这不得给技术人员加鸡腿啊。"
+            },
+            "product_info": {
+                "id": 22,
+                "product_name": "【咚咚虎】猛虎宝宝 旺运连孩子太小做出来不好看，这品质给我惊艳到了。关键是只要一张照片，说出去谁信啊，这技术也太牛了。这不得给技术人员加鸡腿啊。"
+            },
+            "product_info": {
+                "id": 22,
+                "product_name":"【咚咚虎】猛虎宝宝 旺运连/350连！",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-01-19/63c8e721412ff.jpg",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-19/63c8e6eeac3d8.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c8e6f346bd8.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c8e6f9b5b9c.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c8e71994a53.jpg"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/NwcQ1tlbE0s8Bo8G_NwcQ1tlbE0s8Bo8G_ios_20230113.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a88461387.png",
+                    "ar_url": "https://static.preclight.com/rebuild/NwcQ1tlbE0s8Bo8G_NwcQ1tlbE0s8Bo8G_miniprog_20230113.glb"
+                },
+                "template_id": 20,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018898496572887040",
+                            "name": "平行光",
+                            "type": "DirectionalLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "position": [
+                                -8,
+                                34,
+                                50
+                            ],
+                            "intensity": 0.89,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7018898501736075264",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.28
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "laohu_KeShiHua:Texture0",
+                                "emissive": 0,
+                                "metalness": 0.21,
+                                "roughness": 0.69,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "laohu_KeShiHua:Texture2",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "laohu_KeShiHua:Texture4",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Hubaby:LaoHuSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "metalness",
+                            "uuid": "9802143c-3bf8-40a2-bcd0-621bb4fcfe37",
+                            "index": 0
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.625,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1669801707003,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-03/63dcfbf8c70ab.png"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "87.7g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 81,
+            "cover": "https://static.preclight.com/uploads/2023-01-05/63b68ea1bc433.jpg",
+            "cover_width": 1280,
+            "cover_height": 1920,
+            "title": "这个私人定制手办创意真的好好啊，把我家大明星的颜刻画得惟妙惟",
+            "sort": 1675077171006,
+            "show_index": 1,
+            "tag_img": "https://static.preclight.com/uploads/2022-12-01/6388409f70d69.png",
+            "product_id": 41,
+            "create_user": "章鱼哥的梦想",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-05/63b68e23c4eb2.jpg",
+            "create_userid": 0,
+            "like_num": 4531,
+            "publish_date": "2023-01-05 16:43",
+            "status": 1,
+            "created_at": "2023-01-05T16:47:56+08:00",
+            "magic_buyer_show_content": {
+                "id": 81,
+                "sid": 81,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-05/63b68ea1bc433.jpg",
+                    "https://static.preclight.com/uploads/2023-01-05/63b68ea9ef799.jpg"
+                ],
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/zj2aMTf4ydeyt0UM_zj2aMTf4ydeyt0UM_ios_20221219.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-05/63b68dc76a9f0.png",
+                    "ar_url": "https://static.preclight.com/rebuild/zj2aMTf4ydeyt0UM_zj2aMTf4ydeyt0UM_miniprog_20221219.glb"
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7016325210794102784",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.93,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016326679643557888",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.69
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "pasted__lambert8SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert6SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "lambert3SG",
+                                "emissive": 0,
+                                "metalness": 0.84,
+                                "roughness": 0.55,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert7SG",
+                                "emissive": 0,
+                                "metalness": 0.35,
+                                "roughness": 0.52,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert4SG",
+                                "emissive": 0,
+                                "metalness": 0.5,
+                                "roughness": 0.79,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__aSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert2SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert3SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "jjjjjjSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "",
+                            "uuid": "395a9029-1be8-4355-bedd-ae9112aef14a",
+                            "index": 2
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "这个私人定制手办创意真的好好啊，把我家大明星的颜刻画得惟妙惟肖,这个唇色粉粉的可以说是拿捏到位了，彩打这块处理的太棒了，从细节出就能见真章，帅气眉眼，天使美貌，🍼𝘀𝘄𝗲𝗲𝘁 𝗯𝗮𝗯𝘆"
+            },
+            "product_info": {
+                "id": 41,
+                "product_name": "【求婚男】单膝跪地捧花 创意纪念手办",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-01-31/63d8f4cde0315.jpg",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-31/63d8f4d5a132d.jpg",
+                    "https://static.preclight.com/uploads/2023-01-31/63d8f4e11c7e9.jpg",
+                    "https://static.preclight.com/uploads/2023-01-31/63d8f4dcd21d2.jpg",
+                    "https://static.preclight.com/uploads/2023-01-31/63d8f4e4df5e1.jpg"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/QAYzh4DjMoW8ILH6_QAYzh4DjMoW8ILH6_ios_20230111.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a82a01d18.png",
+                    "ar_url": "https://static.preclight.com/rebuild/QAYzh4DjMoW8ILH6_QAYzh4DjMoW8ILH6_miniprog_20230111.glb"
+                },
+                "template_id": 12,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018901799503400960",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7018901808655372288",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.7
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "hunsha_nan02_lambert9SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "hunsha_nan02_lambert8SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "hunsha_nan02_lambert7SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "lambert2SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "metalness",
+                            "uuid": "598e347f-f7cc-46a2-abaf-7dd58b4bf2ae",
+                            "index": 3
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.594,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1672397882001,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-03/63dcfa829d580.jpg"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "22.8g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 120,
+            "cover": "https://static.preclight.com/uploads/2023-01-28/63d4e21fb6f1e.jpg",
+            "cover_width": 682,
+            "cover_height": 1024,
+            "title": "这款手办也太受欢迎了吧，过年分享给亲朋，大家都玩得停不下来。",
+            "sort": 1675077171005,
+            "show_index": 1,
+            "tag_img": "",
+            "product_id": 42,
+            "create_user": "梵蒂冈",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-28/63d4e22bbdafb.jpg",
+            "create_userid": 0,
+            "like_num": 963,
+            "publish_date": "2023-01-28 16:51",
+            "status": 1,
+            "created_at": "2023-01-28T16:52:24+08:00",
+            "magic_buyer_show_content": {
+                "id": 120,
+                "sid": 120,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-28/63d4e21fb6f1e.jpg",
+                    "https://static.preclight.com/uploads/2023-01-28/63d4e225e0eaf.jpg"
+                ],
+                "model": {
+                    "url": "",
+                    "cover": "",
+                    "ar_url": ""
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.4,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305432859774976",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.8
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "这款手办也太受欢迎了吧，过年分享给亲朋，大家都玩得停不下来。模板定制很快，差不多一个小时就能看到效果，人物栩栩如生，细节到位。太有意思了，顺便还能讨个吉庆如意的好寓意，我家人手一个了。"
+            },
+            "product_info": {
+                "id": 42,
+                "product_name": "【如意宝宝】新春限定  如意招财",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-02-07/63e21685eb2b4.png",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-02-07/63e2168db1718.png",
+                    "https://static.preclight.com/uploads/2023-02-07/63e216a913172.png",
+                    "https://static.preclight.com/uploads/2023-02-07/63e216ae0be6e.png"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/W1eu3src4UnJVOzv_W1eu3src4UnJVOzv_ios_20230103.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-02-07/63e216dad6def.png",
+                    "ar_url": "https://static.preclight.com/rebuild/dHiURixrlBbAgruw_dHiURixrlBbAgruw_miniprog_20230207.glb"
+                },
+                "template_id": 6,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7016325210794102784",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.57,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016326679643557888",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.69
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "pasted__lambert8SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert6SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "lambert3SG",
+                                "emissive": 0,
+                                "metalness": 0.6,
+                                "roughness": 0.45,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert7SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert4SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__aSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert2SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert3SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "jjjjjjSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "roughness",
+                            "uuid": "b288f7e7-0157-4cc7-af62-72782987582b",
+                            "index": 2
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。",
+                "status": 1,
+                "sort": 1672748707616,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-07/63e216bae7918.png"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "62.3g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 69,
+            "cover": "https://static.preclight.com/uploads/2022-12-29/63ad71b25c6cc.jpg",
+            "cover_width": 1280,
+            "cover_height": 1920,
+            "title": "当你看到这个好评时，就证明该宝贝真心不错，这次购物很成功！最",
+            "sort": 1675077171004,
+            "show_index": 1,
+            "tag_img": "https://static.preclight.com/uploads/2022-12-01/6388409f70d69.png",
+            "product_id": 32,
+            "create_user": "快乐小法",
+            "create_avatar": "https://static.preclight.com/uploads/2022-12-29/63ad713bc66be.jpg",
+            "create_userid": 0,
+            "like_num": 8900,
+            "publish_date": "2022-12-29 18:43",
+            "status": 1,
+            "created_at": "2022-12-29T18:54:24+08:00",
+            "magic_buyer_show_content": {
+                "id": 69,
+                "sid": 69,
+                "images": [
+                    "https://static.preclight.com/uploads/2022-12-29/63ad71b25c6cc.jpg",
+                    "https://static.preclight.com/uploads/2022-12-29/63ad71b85ff3b.jpg",
+                    "https://static.preclight.com/uploads/2022-12-29/63ad71c9787f1.jpg"
+                ],
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/Oz0kYXpwerYzVRKG_Oz0kYXpwerYzVRKG_ios_20221221.glb",
+                    "cover": "https://static.preclight.com/uploads/2022-12-29/63ad6fce81f00.png",
+                    "ar_url": "https://static.preclight.com/rebuild/Oz0kYXpwerYzVRKG_Oz0kYXpwerYzVRKG_miniprog_20221221.glb"
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.48
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.68,
+                            "castShadow": false
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "当你看到这个好评时，就证明该宝贝真心不错，这次购物很成功！最近世界杯可太精彩了，晚上熬夜看球，白天在小红书上看到这个Q版手办一下子就被吸引住了，东西虽然是定制的，但很方便，而且各种细节也到位，不仅淘到了好东西而且还比其它店便宜很多，真是太方便了，我打算给小孩也做一个，东西也不贵，还能记录孩子的成长轨迹，还挺好玩的，等孩子长大了也有纪念意义。"
+            },
+            "product_info": {
+                "id": 32,
+                "product_name": "【梅西】阿根廷队服 同款手办",
+                "product_front_pic": "https://static.preclight.com/uploads/2022-12-01/638783add48be.jpg",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-18/63c76da259bb4.png",
+                    "https://static.preclight.com/uploads/2023-01-18/63c76da78e5fe.png",
+                    "https://static.preclight.com/uploads/2023-01-18/63c76dab20a39.png",
+                    "https://static.preclight.com/uploads/2023-01-18/63c76daedd1d0.png"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/OJpiulwsfgpJNVMa_OJpiulwsfgpJNVMa_ios_20221201.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a860a9ae2.png",
+                    "ar_url": "https://static.preclight.com/rebuild/OJpiulwsfgpJNVMa_OJpiulwsfgpJNVMa_miniprog_20221201.glb"
+                },
+                "template_id": 16,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018902555002408960",
+                            "name": "聚光源",
+                            "type": "SpotLight",
+                            "angle": 0.98,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "position": [
+                                0,
+                                178,
+                                178
+                            ],
+                            "intensity": 1,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7018902659574796288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.43
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "QiuYi_MeiXi:lambert2SG",
+                                "emissive": 0,
+                                "metalness": 0.23,
+                                "roughness": 0.95,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "MeiXu_DaYin01:skin_hi1SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "MeiXu_DaYin01:skin_hi1SG-2",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "metalness",
+                            "uuid": "c87dca92-037a-4362-bdfd-444d61e0ece8",
+                            "index": 0
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.649,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1670393605300,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2022-12-01/638783c001583.jpg"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "23.5g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 92,
+            "cover": "https://static.preclight.com/uploads/2023-01-09/63bbcb557552e.jpg",
+            "cover_width": 1024,
+            "cover_height": 1024,
+            "title": "这个模型做得好精致呀，直接超出我的预期了，在QQ的造型的基础",
+            "sort": 1675077171003,
+            "show_index": 1,
+            "tag_img": "",
+            "product_id": 40,
+            "create_user": "小吴的机智生活",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-09/63bbcae91b774.jpg",
+            "create_userid": 0,
+            "like_num": 219,
+            "publish_date": "2023-01-09 19:30",
+            "status": 1,
+            "created_at": "2023-01-09T16:09:22+08:00",
+            "magic_buyer_show_content": {
+                "id": 92,
+                "sid": 92,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-09/63bbcb557552e.jpg",
+                    "https://static.preclight.com/uploads/2023-01-09/63bbcb5ab68ce.jpg"
+                ],
+                "model": {
+                    "url": "",
+                    "cover": "",
+                    "ar_url": ""
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.48
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.68,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305432859774976",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.91
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "这个模型做得好精致呀，直接超出我的预期了，在QQ的造型的基础上，脸部保持真人一比一复刻，整体风格兼容的特别好，一看就知道模型优化师下了不少功夫，真的值得夸夸。"
+            },
+            "product_info": {
+                "id": 40,
+                "product_name": "【求包养】“爱在手心” 趣味摆件",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-01-19/63c8e4c84de4b.png",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-18/63c76c7cdb0c5.png",
+                    "https://static.preclight.com/uploads/2023-01-18/63c76c8286438.png",
+                    "https://static.preclight.com/uploads/2023-01-18/63c76c8a58530.png"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/hCAxpHZR3UXwjaeW_hCAxpHZR3UXwjaeW_ios_20221209.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a8356385e.png",
+                    "ar_url": "https://static.preclight.com/rebuild/hCAxpHZR3UXwjaeW_hCAxpHZR3UXwjaeW_miniprog_20221209.glb"
+                },
+                "template_id": 13,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018901896228245504",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.35
+                        },
+                        {
+                            "id": "7018901962905096192",
+                            "name": "聚光源",
+                            "type": "SpotLight",
+                            "angle": 0.31,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "position": [
+                                0,
+                                200,
+                                200
+                            ],
+                            "intensity": 1,
+                            "castShadow": false
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "polySurface56:qby8SG",
+                                "emissive": 0,
+                                "metalness": 0.2,
+                                "roughness": 0.61,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "polySurface56:qby2SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "polySurface56:qby2SG1",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "polySurface56:qby2SG2",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "roughness",
+                            "uuid": "54eeda60-bfcc-4c14-82a4-aade7a6f9368",
+                            "index": 0
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.645,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1672397825737,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2022-12-09/6392e26489475.jpg"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "112.0g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 127,
+            "cover": "https://static.preclight.com/uploads/2023-02-01/63da4cf0d8066.jpg",
+            "cover_width": 814,
+            "cover_height": 1024,
+            "title": "看到手办我还挺惊喜的，手机上没有合适的照片，勉强选了一张符合",
+            "sort": 1675077171002,
+            "show_index": 1,
+            "tag_img": "",
+            "product_id": 23,
+            "create_user": "超炫酷",
+            "create_avatar": "https://static.preclight.com/uploads/2023-02-01/63da4d23c23e6.jpg",
+            "create_userid": 0,
+            "like_num": 423,
+            "publish_date": "2023-02-01 19:27",
+            "status": 1,
+            "created_at": "2023-02-01T19:29:41+08:00",
+            "magic_buyer_show_content": {
+                "id": 127,
+                "sid": 127,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-02-01/63da4cf0d8066.jpg",
+                    "https://static.preclight.com/uploads/2023-02-01/63da4cfce238d.jpg"
+                ],
+                "model": {
+                    "url": "",
+                    "cover": "",
+                    "ar_url": ""
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.4,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305432859774976",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.8
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "看到手办我还挺惊喜的，手机上没有合适的照片，勉强选了一张符合要求的，没想到做出来的效果比照片好看多了。问了下客服才知道，这种定制手办长传的照片很重要，照片只能记录二维的信息而且很容易产生畸变，所以我这算是意外之喜吧"
+            },
+            "product_info": {
+                "id": 23,
+                "product_name": "【捣蛋猪】福猪吉祥 平安吉祥",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-01-19/63c8e1628da5a.jpg",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-19/63c8dc2025ddb.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c8dc24aaacd.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c8dc29c8605.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c8dc2ee042c.jpg"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/r026iY6Umi3j6Cvb_r026iY6Umi3j6Cvb_ios_20221209.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a89a04c97.png",
+                    "ar_url": "https://static.preclight.com/rebuild/r026iY6Umi3j6Cvb_r026iY6Umi3j6Cvb_miniprog_20221209.glb"
+                },
+                "template_id": 22,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018894923881517056",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                -52,
+                                102,
+                                1000
+                            ],
+                            "intensity": 0.55
+                        },
+                        {
+                            "id": "7019129979438895104",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0.01,
+                            "position": [
+                                -124,
+                                33,
+                                1000
+                            ],
+                            "intensity": 0.79,
+                            "castShadow": false
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiaoZhu02:ZhuBaoSG",
+                                "emissive": 0,
+                                "metalness": 0.06,
+                                "roughness": 0.74,
+                                "emissiveIntensity": 0.95
+                            },
+                            {
+                                "name": "lambert2SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "metalness",
+                            "uuid": "b5860e0d-fbe3-41b4-a5bb-1900dd83cfa7",
+                            "index": 0
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.65,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1668426434822,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-03/63dcfc03ac44a.png"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "66.4g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 125,
+            "cover": "https://static.preclight.com/uploads/2023-01-30/63d7a5a68f465.jpg",
+            "cover_width": 861,
+            "cover_height": 861,
+            "title": "我家小孩的颜值家族遗传的，听说不做这个手办太可惜啦，哈哈哈哈",
+            "sort": 1675077090002,
+            "show_index": 1,
+            "tag_img": "",
+            "product_id": 25,
+            "create_user": "答复恢复到、",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-30/63d7a65b1f34d.jpg",
+            "create_userid": 0,
+            "like_num": 970,
+            "publish_date": "2023-01-30 19:09",
+            "status": 1,
+            "created_at": "2023-01-30T19:11:28+08:00",
+            "magic_buyer_show_content": {
+                "id": 125,
+                "sid": 125,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-30/63d7a5a68f465.jpg",
+                    "https://static.preclight.com/uploads/2023-01-30/63d7a5ac18404.jpg"
+                ],
+                "model": {
+                    "url": "",
+                    "cover": "",
+                    "ar_url": ""
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.4,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305432859774976",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.8
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "我家小孩的颜值家族遗传的，听说不做这个手办太可惜啦，哈哈哈哈。还别说，这个手办真的太可爱了，看来我们这个拥有遗传颜值的家族都得做一个啦。按头安利。"
+            },
+            "product_info": {
+                "id": 25,
+                "product_name": "【天使兔】前“兔”似锦 粉粉敲可爱",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-01-19/63c90073d1733.jpg",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-19/63c90039bc1f0.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c9004111100.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c90060824ed.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c9006777c3c.jpg"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/p07xGkmkEViOQlV2_p07xGkmkEViOQlV2_ios_20221209.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a88e18adb.png",
+                    "ar_url": "https://static.preclight.com/rebuild/p07xGkmkEViOQlV2_p07xGkmkEViOQlV2_miniprog_20221209.glb"
+                },
+                "template_id": 21,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018906215086297088",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.58
+                        },
+                        {
+                            "id": "7018906245469835264",
+                            "name": "聚光源",
+                            "type": "SpotLight",
+                            "angle": 0.04,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "position": [
+                                0,
+                                -12,
+                                222
+                            ],
+                            "intensity": 0.63,
+                            "castShadow": false
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "Tu_TS2SG",
+                                "emissive": 0,
+                                "metalness": 0.19,
+                                "roughness": 0.61,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Tu_TSSG1",
+                                "emissive": 0,
+                                "metalness": 0.23,
+                                "roughness": 0.84,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Tu_TSSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Tu_TSSG2",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Skin:_skin_hi2:Group285SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Skin:_skin_hi2:Group285SG1",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Skin:_skin_hi2:Group285SG2",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "metalness",
+                            "uuid": "bdcf7485-2e8d-4d45-87ea-190e809e884b",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.649,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1668426451001,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-03/63dcfc0d7abc9.png"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "80.3g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 124,
+            "cover": "https://static.preclight.com/uploads/2023-01-30/63d7a41de4bbb.jpg",
+            "cover_width": 879,
+            "cover_height": 1024,
+            "title": "救命，这个小兔子模型也太可爱了吧。模型很真实但又有一种说不出",
+            "sort": 1675076983157,
+            "show_index": 1,
+            "tag_img": "",
+            "product_id": 25,
+            "create_user": "符合度好吧",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-30/63d7a49ba9e7d.jpg",
+            "create_userid": 0,
+            "like_num": 476,
+            "publish_date": "2023-01-30 19:03",
+            "status": 1,
+            "created_at": "2023-01-30T19:09:41+08:00",
+            "magic_buyer_show_content": {
+                "id": 124,
+                "sid": 124,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-30/63d7a41de4bbb.jpg",
+                    "https://static.preclight.com/uploads/2023-01-30/63d7a424b41d5.jpg"
+                ],
+                "model": {
+                    "url": "",
+                    "cover": "",
+                    "ar_url": ""
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.4,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305432859774976",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.8
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "救命，这个小兔子模型也太可爱了吧。模型很真实但又有一种说不出来哪里变好看的感觉，这效果非常好，把我拿捏了"
+            },
+            "product_info": {
+                "id": 25,
+                "product_name": "【天使兔】前“兔”似锦 粉粉敲可爱",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-01-19/63c90073d1733.jpg",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-19/63c90039bc1f0.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c9004111100.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c90060824ed.jpg",
+                    "https://static.preclight.com/uploads/2023-01-19/63c9006777c3c.jpg"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/p07xGkmkEViOQlV2_p07xGkmkEViOQlV2_ios_20221209.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a88e18adb.png",
+                    "ar_url": "https://static.preclight.com/rebuild/p07xGkmkEViOQlV2_p07xGkmkEViOQlV2_miniprog_20221209.glb"
+                },
+                "template_id": 21,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018906215086297088",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.58
+                        },
+                        {
+                            "id": "7018906245469835264",
+                            "name": "聚光源",
+                            "type": "SpotLight",
+                            "angle": 0.04,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "position": [
+                                0,
+                                -12,
+                                222
+                            ],
+                            "intensity": 0.63,
+                            "castShadow": false
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "Tu_TS2SG",
+                                "emissive": 0,
+                                "metalness": 0.19,
+                                "roughness": 0.61,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Tu_TSSG1",
+                                "emissive": 0,
+                                "metalness": 0.23,
+                                "roughness": 0.84,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Tu_TSSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Tu_TSSG2",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Skin:_skin_hi2:Group285SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Skin:_skin_hi2:Group285SG1",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "Skin:_skin_hi2:Group285SG2",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "metalness",
+                            "uuid": "bdcf7485-2e8d-4d45-87ea-190e809e884b",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.649,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1668426451001,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-03/63dcfc0d7abc9.png"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "80.3g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 78,
+            "cover": "https://static.preclight.com/uploads/2023-01-04/63b53dd3aa3b0.jpg",
+            "cover_width": 1280,
+            "cover_height": 1920,
+            "title": "哈哈哈哈，这深邃的眉眼，该说不说，大明星的颜值没得说。虽说是",
+            "sort": 1674984920003,
+            "show_index": 1,
+            "tag_img": "https://static.preclight.com/uploads/2022-12-01/6388409f70d69.png",
+            "product_id": 38,
+            "create_user": "闲有高度",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-04/63b53dab98440.jpg",
+            "create_userid": 0,
+            "like_num": 390,
+            "publish_date": "2023-01-04 16:48",
+            "status": 1,
+            "created_at": "2023-01-04T16:51:12+08:00",
+            "magic_buyer_show_content": {
+                "id": 78,
+                "sid": 78,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-04/63b53dd3aa3b0.jpg",
+                    "https://static.preclight.com/uploads/2023-01-04/63b53dda4e238.jpg"
+                ],
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/TUMj4R36uogzVsRw_TUMj4R36uogzVsRw_ios_20221223.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-07/63b9431d84017.png",
+                    "ar_url": "https://static.preclight.com/rebuild/TUMj4R36uogzVsRw_TUMj4R36uogzVsRw_miniprog_20221223.glb"
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7016305814390444032",
+                            "name": "平行光",
+                            "type": "DirectionalLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "position": [
+                                80,
+                                100,
+                                50
+                            ],
+                            "intensity": 0.78,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305823009738752",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7016305837215846400",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.39
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "pasted__lambert8SG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert6SG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "lambert3SG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert7SG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert4SG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__aSG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert2SG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert3SG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "jjjjjjSG",
+                                "emissive": 0,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "",
+                            "uuid": "ff05f805-9cfb-4d90-9eb4-ea8a20c65634",
+                            "index": 4
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "哈哈哈哈，这深邃的眉眼，该说不说，大明星的颜值没得说。虽说是Q版手办，但是，这脸部的真实度非常高。而且只需要一张照片，这是什么高科技啊，我直接惊艳到了，这可比海报啥的高级多了嘛!"
+            },
+            "product_info": {
+                "id": 38,
+                "product_name": "【Happy圣诞节】 做自己的Santa Claus",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-01-19/63c8e4eb35d16.png",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-01-18/63c76cb355930.png",
+                    "https://static.preclight.com/uploads/2023-01-18/63c76cc68fff1.png",
+                    "https://static.preclight.com/uploads/2023-01-18/63c76cca15d76.png"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/it4n9ACQljGvNYON_it4n9ACQljGvNYON_ios_20230112.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-01-19/63c8a8409220c.png",
+                    "ar_url": "https://static.preclight.com/rebuild/it4n9ACQljGvNYON_it4n9ACQljGvNYON_miniprog_20230112.glb"
+                },
+                "template_id": 17,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7018900357195501568",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.17
+                        },
+                        {
+                            "id": "7018900365726715904",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.8,
+                            "castShadow": false
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "SDLR_KeShiHua:SDLR_KeShiHua_lambert3SG",
+                                "emissive": 0,
+                                "metalness": 0.21,
+                                "roughness": 0.72,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "SDLR_KeShiHua:SDLR_KeShiHua_Texture4",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 0.980000019,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "SDLR_KeShiHua:SDLR_KeShiHua_Texture2",
+                                "emissive": 0,
+                                "metalness": 0.29,
+                                "roughness": 0.75,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "SDLR_KeShiHua:SDLR_KeShiHua_Texture0",
+                                "emissive": 0,
+                                "metalness": 0.23,
+                                "roughness": 0.79,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "metalness",
+                            "uuid": "598e347f-f7cc-46a2-abaf-7dd58b4bf2ae",
+                            "index": 3
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.647,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#8a8a8a",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。\n\n• 商品材质为3D打印专用全彩树脂，硬度较低，请勿重摔、挤压、暴晒或放置在潮湿环境下，敬请谅解。\n\n• 商品运输前会进行精细打包，损坏率极低，如在快递过程中出现一些细微损坏，如客户无法自行处理的，我们将免费为您进行修补，必要的情况会直接为客户重新制作。\n\n• 定制产品的相似度、造型均取决于客户提供的照片以及选择的商品样式，在模型生成时对五官有合理的调整意见，可进行一定的风格化处理。",
+                "status": 1,
+                "sort": 1672110574498,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-03/63dcfab66fbb4.png"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "46.9g",
+                "product_type": 1
+            }
+        },
+        {
+            "id": 122,
+            "cover": "https://static.preclight.com/uploads/2023-01-29/63d63d764af10.jpg",
+            "cover_width": 1080,
+            "cover_height": 1439,
+            "title": "这家店做东西真的很用心啊，出效果后还反复和我确认有没有需要修",
+            "sort": 1674984920001,
+            "show_index": 1,
+            "tag_img": "",
+            "product_id": 42,
+            "create_user": "汇入酒咖",
+            "create_avatar": "https://static.preclight.com/uploads/2023-01-29/63d63dc59ff36.jpg",
+            "create_userid": 0,
+            "like_num": 663,
+            "publish_date": "2023-01-29 17:33",
+            "status": 1,
+            "created_at": "2023-01-29T17:35:19+08:00",
+            "magic_buyer_show_content": {
+                "id": 122,
+                "sid": 122,
+                "images": [
+                    "https://static.preclight.com/uploads/2023-01-29/63d63d764af10.jpg",
+                    "https://static.preclight.com/uploads/2023-01-29/63d63d81f32f3.jpg"
+                ],
+                "model": {
+                    "url": "",
+                    "cover": "",
+                    "ar_url": ""
+                },
+                "template_id": 0,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7011253187554316288",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.3
+                        },
+                        {
+                            "id": "7011253196207165440",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.4,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016305432859774976",
+                            "name": "半球光",
+                            "type": "HemisphereLight",
+                            "colors": [
+                                "#ffffff",
+                                "#444444"
+                            ],
+                            "visible": true,
+                            "position": [
+                                0,
+                                100,
+                                0
+                            ],
+                            "intensity": 0.8
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "XiangKuang01:pCube7SG",
+                                "emissive": 16761538,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "XiangKuang01:pCube7SG1",
+                                "emissive": 16624938,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 0.81
+                            },
+                            {
+                                "name": "XKSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "emissive",
+                            "uuid": "7dd8a933-f05b-498d-a3d9-c42f772ea299",
+                            "index": 1
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": false,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": false,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "content": "这家店做东西真的很用心啊，出效果后还反复和我确认有没有需要修改的地方。东西走心不说，做东西也用心，期待商家多出新品，宝藏店铺给我火。"
+            },
+            "product_info": {
+                "id": 42,
+                "product_name": "【如意宝宝】新春限定  如意招财",
+                "product_front_pic": "https://static.preclight.com/uploads/2023-02-07/63e21685eb2b4.png",
+                "product_pic": [
+                    "https://static.preclight.com/uploads/2023-02-07/63e2168db1718.png",
+                    "https://static.preclight.com/uploads/2023-02-07/63e216a913172.png",
+                    "https://static.preclight.com/uploads/2023-02-07/63e216ae0be6e.png"
+                ],
+                "video": {
+                    "url": "",
+                    "cover": ""
+                },
+                "model": {
+                    "url": "https://static.preclight.com/rebuild/W1eu3src4UnJVOzv_W1eu3src4UnJVOzv_ios_20230103.glb",
+                    "cover": "https://static.preclight.com/uploads/2023-02-07/63e216dad6def.png",
+                    "ar_url": "https://static.preclight.com/rebuild/dHiURixrlBbAgruw_dHiURixrlBbAgruw_miniprog_20230207.glb"
+                },
+                "template_id": 6,
+                "parameter": {
+                    "lightList": [
+                        {
+                            "id": "7016325210794102784",
+                            "name": "点光源",
+                            "type": "PointLight",
+                            "decay": 0,
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "shadow": {
+                                "radius": 10,
+                                "mapSize": {
+                                    "width": 1024,
+                                    "height": 1024
+                                }
+                            },
+                            "visible": true,
+                            "distance": 0,
+                            "position": [
+                                0,
+                                200,
+                                300
+                            ],
+                            "intensity": 0.57,
+                            "castShadow": false
+                        },
+                        {
+                            "id": "7016326679643557888",
+                            "name": "环境光",
+                            "type": "AmbientLight",
+                            "colors": [
+                                "#ffffff"
+                            ],
+                            "visible": true,
+                            "position": [],
+                            "intensity": 0.69
+                        }
+                    ],
+                    "modelInfo": {
+                        "type": "material",
+                        "rotation": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "dPosition": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "castShadow": true,
+                        "clippingInfo": {
+                            "constants": [
+                                2,
+                                2,
+                                2,
+                                2,
+                                2,
+                                2
+                            ],
+                            "planeShow": false,
+                            "clippingEnable": false
+                        },
+                        "materialList": [
+                            {
+                                "name": "pasted__lambert8SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert6SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "lambert3SG",
+                                "emissive": 0,
+                                "metalness": 0.6,
+                                "roughness": 0.45,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert7SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert4SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__aSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert2SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "pasted__lambert3SG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            },
+                            {
+                                "name": "jjjjjjSG",
+                                "emissive": 0,
+                                "metalness": 0,
+                                "roughness": 1,
+                                "emissiveIntensity": 1
+                            }
+                        ],
+                        "receiveShadow": true,
+                        "materialOperator": {
+                            "type": "roughness",
+                            "uuid": "b288f7e7-0157-4cc7-af62-72782987582b",
+                            "index": 2
+                        },
+                        "centerPlaneVisible": false
+                    },
+                    "stageInfo": {
+                        "fog": {
+                            "far": 1000,
+                            "near": 1,
+                            "type": "",
+                            "color": "#ffffff",
+                            "density": 0.00025
+                        },
+                        "type": "",
+                        "ground": {
+                            "visible": true,
+                            "position": [
+                                0,
+                                -1.643,
+                                0
+                            ]
+                        },
+                        "antialias": true,
+                        "hueSaturation": {
+                            "hue": 0.01,
+                            "enabled": false,
+                            "saturation": 0.01
+                        },
+                        "shadowMapType": "PCFShadowMap",
+                        "logarithmicDepthBuffer": true,
+                        "brightnessContrastShader": {
+                            "enabled": false,
+                            "contrast": 0.01,
+                            "brightness": 0.01
+                        }
+                    },
+                    "cameraInfo": {
+                        "far": 1000,
+                        "fov": 45,
+                        "near": 0.01,
+                        "position": [
+                            0,
+                            0,
+                            10
+                        ]
+                    },
+                    "imageUpload": {},
+                    "backgroundInfo": {
+                        "type": "color",
+                        "color": "#ffffff",
+                        "imgUrl": "",
+                        "bgImgUrl": "https://static.preclight.com/uploads/2022-12-08/6391c25ddc07c.jpg",
+                        "environmentUrl": ""
+                    }
+                },
+                "service_desc": "• 商品为3D打印产品，部分商品会出现不可避免的机器或手工加工的痕迹，如胶水、轻微色差、划痕等瑕疵问题均属正常现象，完美主义者玩家谨慎购买。",
+                "status": 1,
+                "sort": 1672748707616,
+                "price": 12600,
+                "buy_intro": "商品属于私人定制类商品不可二次销售，无特殊情况暂不支持退货处理！如遇到产品本身质量问题（非人为造成）的情况，请及时与我们客服取得联系和反馈。",
+                "product_desc_pic": [
+                    "https://static.preclight.com/uploads/2023-02-07/63e216bae7918.png"
+                ],
+                "product_desc": "尺寸：8CM ，材料：树脂",
+                "product_size": "8cm",
+                "product_material": "树脂",
+                "product_weight": "62.3g",
+                "product_type": 1
+            }
+        }
+    ],
+    "total": 98,
+    "page": 1,
+    "pageSize": 10
+}

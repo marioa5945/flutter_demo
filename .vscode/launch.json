@@ -1,0 +1,39 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutter_demo",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "6608FC90-B63B-4EE5-AF16-A5483082AA0F"
+        },
+        {
+            "name": "iOS模拟器",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "1DA4CCCC-D0B8-47DF-B671-FAC9B80F7030"
+        },
+        {
+            "name": "Ramon Mac(iOS模拟器)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "B7195A0C-A207-403A-AEF5-ACD3D72C22B6"
+        },
+        {
+            "name": "flutter_demo (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_demo (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "deviceId": "00008030-000C18503A90802E"
+        }
+    ]
+}
